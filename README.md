@@ -26,7 +26,7 @@ TODO: smaller side projects: one goofy "for the love of it" project and maybe on
 ### Statistics and Contact Information
 
 <p float="left">
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="25%" />
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="25%" />
+  <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="35%" />
+  <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="35%" />
 </p>
 
