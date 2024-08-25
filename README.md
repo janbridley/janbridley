@@ -4,7 +4,7 @@ Here are a few of my projects!
 
 ### janbridley/svg3d
 
-A modern refactor of an older package used to generate vector art from systems of convex polyhedra. This can be used for high-quality visualizations of single geometries as well as simulations of faceted nanoparticles.
+A modern refactor of an older package used to generate vector art from systems of convex polyhedra, updated to better fit the scope of simulation science. This can be used for high-quality visualizations of single geometries as well as compact renderings of faceted nanoparticles.
 
 <!--- TODO: Twisted pentagonal prisms building into icosahedron: 5akis pentagonal antiprism --->
 
