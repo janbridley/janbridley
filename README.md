@@ -39,7 +39,7 @@ Performant, transferrable computational geometry code for shapes in two and thre
 
 
 
-### Statistics and Contact Information
+### Statistics and Languages
 
 ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github)
 
