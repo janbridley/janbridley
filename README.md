@@ -7,7 +7,7 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
  ~> <strong>id -p</strong>
     uid	jennabradley
-    groups staff everyond she.her.hers <a href="https://github.com/glotzerlab" style="text-decoration:none">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
+    groups staff everyond she.her.hers <a href="https://github.com/glotzerlab" style="color: inherit;">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
 </pre>
 
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
