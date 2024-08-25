@@ -25,8 +25,10 @@ Performant, transferrable computational geometry code for shapes in two and thre
 
 ### Statistics and Contact Information
 
-<p float="left">
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="30%" />
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="30%" />
-</p>
+<!-- <p float="left"> -->
+  <!-- <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="30%" /> -->
+  <!-- <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="30%" /> -->
+<!-- </p> -->
 
+
+![Image 1](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github)  ![Image 2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github)
