@@ -16,7 +16,7 @@ Here are a few of my projects!
  ~> <strong>id -p</strong>
  uid	jenbradley
  groups glotzerlab 
-<\code>
+</code>
 
 ### janbridley/svg3d
 
