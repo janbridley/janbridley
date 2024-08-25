@@ -13,8 +13,9 @@
  ~> <strong>id -p</strong>
  uid	jenbradley
  groups she.her.hers <a href="https://github.com/glotzerlab" style="text-decoration:none">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
- <!-- Style is based on the excellent profile of <a href="https://github.com/hedyhli/hedyhl"></a> -->
 </pre>
+
+ <!--- Style is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
 Here are a few of my projects!
 
