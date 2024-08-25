@@ -8,6 +8,7 @@
   
  ~> <strong>ls socials</strong>
   LinkedIn: <a href="https://www.linkedin.com/in/jenbrad">@jenbrad</a>
+  ORCID: <a href="https://orcid.org/0009-0007-2443-2982"></a>
 
  ~> <strong>id -p</strong>
  uid	jennabradley
