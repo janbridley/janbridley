@@ -17,7 +17,7 @@
 
  <!--- Style is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
-Here are a few of my projects!
+Here are a few visualizations that make use of code I've developed!
 
 ### janbridley/svg3d
 
@@ -41,11 +41,5 @@ Performant, transferrable computational geometry code for shapes in two and thre
 
 
 ### Statistics and Contact Information
-
-<!-- <p float="left"> -->
-  <!-- <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="30%" /> -->
-  <!-- <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="30%" /> -->
-<!-- </p> -->
-
 
 ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github)
