@@ -11,7 +11,7 @@
   LinkedIn: <a href="https://www.linkedin.com/in/jenbrad">@jenbrad</a>
 
  ~> <strong>id -p</strong>
- uid	jenbradley
+ uid	jennabradley
  groups she.her.hers <a href="https://github.com/glotzerlab" style="text-decoration:none">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
 </pre>
 
