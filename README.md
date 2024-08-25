@@ -12,7 +12,7 @@
 
  ~> <strong>id -p</strong>
  uid	jenbradley
- groups glotzerlab 
+ groups she.her.hers <a href="https://github.com/glotzerlab" style="text-decoration:none">glotzerlab</a> <s href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
 </pre>
 
 Here are a few of my projects!
