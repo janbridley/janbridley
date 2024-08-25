@@ -25,13 +25,8 @@ TODO: smaller side projects: one goofy "for the love of it" project and maybe on
 
 ### Statistics and Contact Information
 
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=janbridley&show_icons=true&hide=stars,commits&show=reviews&hide_rank=true&hide_title=true) 
-
 <p float="left">
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="45%" />
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="45%" />
+  <img src=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github alt="Statistics" width="25%" />
+  <img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github alt="Languages" width="25%" />
 </p>
 
-![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github)
