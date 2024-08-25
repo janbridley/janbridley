@@ -4,7 +4,8 @@
 
 <pre>
  ~> <strong>cat about-me.txt</strong>
-  I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
+  I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens 
+ of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
   
  ~> <strong>ls socials</strong>
   LinkedIn: <a href="https://www.linkedin.com/in/jenbrad">LinkedIn: @jenbrad</a>
