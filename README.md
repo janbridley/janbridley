@@ -32,3 +32,5 @@ Performant, transferrable computational geometry code for shapes in two and thre
 
 
 ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github#gh-light-mode-only) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github#gh-light-mode-only)
+
+![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=tokyonight#gh-dark-mode-only) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=tokyonight#gh-dark-mode-only)
