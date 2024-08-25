@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
 
 Here are a few of my projects!
