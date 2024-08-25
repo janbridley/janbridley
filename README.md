@@ -1,11 +1,6 @@
+I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
 
-
-
-<pre>
- ~> <strong>cat about-me.txt</strong>
-  I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens 
- of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
-  
+<pre>  
  ~> <strong>ls socials</strong>
   <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
   <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
