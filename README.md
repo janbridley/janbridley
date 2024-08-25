@@ -8,7 +8,7 @@ A modern refactor of an older package used to generate vector art from systems o
 
 <!--- TODO: Twisted pentagonal prisms building into icosahedron: 5akis pentagonal antiprism --->
 
-<!--- <> TODO: simulation frame - should be high density (near perfect) - maybe quasicrystal, use shading for sure. --->
+<!--- TODO: simulation frame - should be high density (near perfect) - maybe quasicrystal, use shading for sure. --->
 
 ### glotzerlab/coxeter
 
