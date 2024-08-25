@@ -25,6 +25,6 @@ TODO: smaller side projects: one goofy "for the love of it" project and maybe on
 
 ### Statistics and Contact Information
 
-Solarized dark             |  Solarized Ocean
+             |  
 :-------------------------:|:-------------------------:
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=janbridley&show_icons=true&hide=stars,commits&show=reviews&hide_rank=true&hide_title=true) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github)
