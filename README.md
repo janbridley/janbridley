@@ -15,6 +15,8 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 Here are a few visualizations that make use of code I've developed!
 
+
+<!---
 ### janbridley/svg3d
 
 A modern refactor of an older package used to generate vector art from systems of convex polyhedra, updated to better fit the scope of simulation science. This can be used for high-quality visualizations of single geometries as well as compact renderings of faceted nanoparticles.
@@ -31,6 +33,7 @@ Performant, transferrable computational geometry code for shapes in two and thre
 
 
 <!--- TODO: smaller side projects: one goofy "for the love of it" project and maybe one simulation one? Could be something else as well --->
+--->
 
 
 
