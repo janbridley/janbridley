@@ -1,12 +1,11 @@
 [![Linkedin: Jenna Bradley](https://img.shields.io/badge/-jenbrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenbrad/)](https://www.linkedin.com/in/jenbrad/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+.blob-code-inner {
+    white-space: pre-wrap !important;
+}
 
-
-
-Here are a few of my projects!
-
-<code>
+```zsh
  ~> <strong>cat about-me.txt</strong>
   I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases.
   
@@ -16,7 +15,9 @@ Here are a few of my projects!
  ~> <strong>id -p</strong>
  uid	jenbradley
  groups glotzerlab 
-</code>
+```
+
+Here are a few of my projects!
 
 ### janbridley/svg3d
 
