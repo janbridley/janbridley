@@ -2,12 +2,12 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 <pre style="color: inherit;">
  ~> <strong>ls socials</strong>
-      <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
-      <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
+  <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
+  <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
 
  ~> <strong>id -p</strong>
-      uid	jennabradley
-      groups staff everyond she.her.hers <a href="https://github.com/glotzerlab" style="color: inherit;">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
+  uid	jennabradley
+  groups staff everyond she.her.hers <a href="https://github.com/glotzerlab" style="color: inherit;">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about style="text-decoration:none"">CWRU.ECG</a>
 </pre>
 
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
