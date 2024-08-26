@@ -13,12 +13,10 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
 Here are a few visualizations that make use of code I've developed!
-<figure>
+<div>
     <img src='src/pyritohedron.gif' alt='missing' width='25%'/>
-</figure>
-<figure>
     <img src='image.jpg' alt='missing' width='25%'/>
-</figure>
+</div>
 
 
 
