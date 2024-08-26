@@ -18,7 +18,12 @@ Here are a few visualizations that make use of code I've developed!
 
 ### Statistics and Languages
 
-![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github | width=40) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github)
+<!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="30%" />
+</div>
 
 
 <!--- [![Linkedin: Jenna Bradley](https://img.shields.io/badge/-jenbrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenbrad/)](https://www.linkedin.com/in/jenbrad/) --->
