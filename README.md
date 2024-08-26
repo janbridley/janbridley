@@ -41,8 +41,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 <!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
 
 <div>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="7.5%">
+  <img src="src/extern/devicons/python-original.svg" width="7.5%">
 </div>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
