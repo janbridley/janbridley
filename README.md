@@ -26,10 +26,13 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
     <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
 </div>
 
+### Languages and Tools
 
+<div>
+<img src="https://skillicons.dev/icons?i=python,markdown,git,helix,readthedocs">
+</div>
 
-
-### Statistics and Languages
+### Statistics
 
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
 
