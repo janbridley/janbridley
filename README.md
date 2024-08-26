@@ -53,6 +53,8 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
   <a href="https://helix-editor.com/"><img src="src/icons/hx.svg" width="6%" alt="Helix Editor"></a>
 </div>
 
+<!--- Thanks to [Devicon.dev](https://devicon.dev) for the svg images --->
+
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
