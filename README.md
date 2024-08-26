@@ -23,7 +23,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 <div>
     <img src='src/pyritohedron.gif' alt='Pyritohedra' width='25%'/>
     <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
-    <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
+    <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='25%'/>
 </div>
 
 ## Statistics, Languages, and Tools
