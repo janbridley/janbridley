@@ -33,16 +33,16 @@ Here are a few visualizations that make use of code I've contributed to or devel
 
 
 <div style="display: flex;">
-  <a href="https://www.python.org/"><img src="src/icons/python.svg" width="6.1%" alt="Python"></a>
-  <a href="https://pytest.org/"><img src="src/icons/pytest.svg" width="6.1%" alt="Pytest"></a>
-  <a href="https://isocpp.org/"><img src="src/icons/cpp.svg" width="6.1%" alt="C++"></a>
-  <a href="https://www.rust-lang.org/"><img src="src/icons/rust.svg" width="6.1%" alt="Rust"></a>
-  <a href="https://www.markdownguide.org/"><img src="src/icons/md.svg" width="6.1%" alt="Markdown"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="src/icons/bash.svg" width="6.1%" alt="Bash"></a>
-  <a href="https://git-scm.com/"><img src="src/icons/git.svg" width="6.1%" alt="Git"></a>
-  <a href="https://github.com/features/actions"><img src="src/icons/github_actions.svg" width="6.1%" alt="GitHub Actions"></a>
-  <a href="https://docs.readthedocs.io/en/stable/"><img src="src/icons/rtd.svg" width="6.1%" alt="Read the Docs"></a>
-  <a href="https://helix-editor.com/"><img src="src/icons/hx.svg" width="6.1%" alt="Helix Editor"></a>
+  <a href="https://www.python.org/"><img src="src/icons/python.svg" width="6.05%" alt="Python"></a>
+  <a href="https://pytest.org/"><img src="src/icons/pytest.svg" width="6.05%" alt="Pytest"></a>
+  <a href="https://isocpp.org/"><img src="src/icons/cpp.svg" width="6.05%" alt="C++"></a>
+  <a href="https://www.rust-lang.org/"><img src="src/icons/rust.svg" width="6.05%" alt="Rust"></a>
+  <a href="https://www.markdownguide.org/"><img src="src/icons/md.svg" width="6.05%" alt="Markdown"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="src/icons/bash.svg" width="6.05%" alt="Bash"></a>
+  <a href="https://git-scm.com/"><img src="src/icons/git.svg" width="6.05%" alt="Git"></a>
+  <a href="https://github.com/features/actions"><img src="src/icons/github_actions.svg" width="6.05%" alt="GitHub Actions"></a>
+  <a href="https://docs.readthedocs.io/en/stable/"><img src="src/icons/rtd.svg" width="6.05%" alt="Read the Docs"></a>
+  <a href="https://helix-editor.com/"><img src="src/icons/hx.svg" width="6.05%" alt="Helix Editor"></a>
 </div>
 
 <!--- Thanks to [Devicon.dev](https://devicon.dev) for the svg logos that were adapted for this README.md --->
