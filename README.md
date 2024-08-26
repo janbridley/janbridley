@@ -4,7 +4,7 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
  ~> <strong>id -p</strong>
   uid	jennabradley
   groups staff everyone she.her.hers <a href="https://github.com/glotzerlab">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about">CWRU.ECG</a>
-  
+
  ~> <strong>ls socials</strong>
   <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
   <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
