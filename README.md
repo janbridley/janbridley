@@ -47,7 +47,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
   <img src="src/extern/devicons/cplusplus-original.svg" width="7.5%">
   <img src="src/extern/devicons/rust-original.svg" width="7.5%">
   <img src="src/extern/devicons/markdown-original.svg" width="7.5%">
-  <img src="src/extern/devicons/github-original.svg" width="7.5%">
+  <img src="src/extern/devicons/git-original.svg" width="7.5%">
   <img src="src/extern/devicons/githubactions-original.svg" width="7.5%">
   <img src="src/extern/devicons/bash-original.svg" width="7.5%">
 </div>
