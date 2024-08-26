@@ -44,6 +44,12 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
   <img src="src/extern/devicons/python-original.svg" width="7.5%">
   <img src="src/extern/devicons/pytest-original.svg" width="7.5%">
   <img src="src/extern/devicons/readthedocs-original.svg" width="7.5%">
+  <img src="src/extern/devicons/cplusplus-original.svg" width="7.5%">
+  <img src="src/extern/devicons/rust-original.svg" width="7.5%">
+  <img src="src/extern/devicons/markdown-original.svg" width="7.5%">
+  <img src="src/extern/devicons/github-original.svg" width="7.5%">
+  <img src="src/extern/devicons/githubactions-original.svg" width="7.5%">
+  <img src="src/extern/devicons/bash-original.svg" width="7.5%">
 </div>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
