@@ -1,4 +1,4 @@
-I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases, aiming to better understand how crystal structures can be engineered by tuning particle shape.
+I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases, aiming to better understand how structural information can be encoded into the shape of a nanoparticle.
 
 <pre>
  ~> <strong>id -p</strong>
