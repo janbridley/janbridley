@@ -27,8 +27,8 @@ Here are a few visualizations that make use of code I've developed!
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="35%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="30%" />
 </div>
 
 
