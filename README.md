@@ -14,7 +14,7 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 Here are a few visualizations that make use of code I've contributed to or developed!
 
-<~--- TODO: self assembly of some lattice - compress? --->
+<!--- TODO: self assembly of some lattice - compress? --->
 
 <div>
    <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/> 
