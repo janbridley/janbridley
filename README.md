@@ -41,17 +41,18 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 <!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
 
 <div style="display: flex;">
-  <img src="src/icons/python.svg" width="6%">
-  <img src="src/icons/pytest.svg" width="6%">
-  <img src="src/icons/cpp.svg" width="6%">
-  <img src="src/icons/rust.svg" width="6%">
-  <img src="src/icons/md.svg" width="6%">
-  <img src="src/icons/bash.svg" width="6%">
-  <img src="src/icons/git.svg" width="6%">
-  <img src="src/icons/github_actions.svg" width="6%">
-  <img src="src/icons/rtd.svg" width="6%">
-  <img src="src/icons/hx.svg" width="6%">
+  <a href="https://www.python.org/"><img src="src/icons/python.svg" width="6%" alt="Python"></a>
+  <a href="https://pytest.org/"><img src="src/icons/pytest.svg" width="6%" alt="Pytest"></a>
+  <a href="https://isocpp.org/"><img src="src/icons/cpp.svg" width="6%" alt="C++"></a>
+  <a href="https://www.rust-lang.org/"><img src="src/icons/rust.svg" width="6%" alt="Rust"></a>
+  <a href="https://www.markdownguide.org/"><img src="src/icons/md.svg" width="6%" alt="Markdown"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="src/icons/bash.svg" width="6%" alt="Bash"></a>
+  <a href="https://git-scm.com/"><img src="src/icons/git.svg" width="6%" alt="Git"></a>
+  <a href="https://github.com/features/actions"><img src="src/icons/github_actions.svg" width="6%" alt="GitHub Actions"></a>
+  <a href="https://docs.readthedocs.io/en/stable/"><img src="src/icons/rtd.svg" width="6%" alt="Read the Docs"></a>
+  <a href="https://helix-editor.com/"><img src="src/icons/hx.svg" width="6%" alt="Helix Editor"></a>
 </div>
+
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
