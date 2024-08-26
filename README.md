@@ -31,8 +31,8 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="31.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="31.5%" />
 </div>
 
 
