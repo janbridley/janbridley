@@ -21,6 +21,17 @@ Here are a few visualizations that make use of code I've developed!
     <img src='image.jpg' alt='missing' width='25%'/>
     <figcaption>Caption goes here</figcaption>
 </figure>
+<ul>
+  <li class="container">
+    <img class="image" src="src/pyritohedron.gif"/>
+    <span class="caption">my caption</span>
+  </li>
+  <li class="container">
+    <img class="image" src="#"/>
+    <span class="caption">my caption</span>
+  </li>
+</ul>
+
 
 
 ### Statistics and Languages
