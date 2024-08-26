@@ -28,6 +28,8 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 
 ### Languages and Tools
 
+<!--- TODO: replace with own images in order to better match software suite --->
+
 [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]()
 
 ### Statistics
