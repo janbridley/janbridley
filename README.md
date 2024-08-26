@@ -14,6 +14,20 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 Here are a few visualizations that make use of code I've developed!
 
+<div style="display: flex; justify-content: space-between; text-align: center;">
+  <div>
+    <img src="src/pyritohedron.gif" width="25%" />
+    <p>A continuous family of pyritohedra, mirroring the natural growth of Pyrite (FeS<sub>2</sub>)</p>
+  </div>
+  <div>
+    <img src="" width="25%" />
+    <p>Under construction!</p>
+  </div>
+  <div>
+    <img src="" width="25%" />
+    <p>Under construction!</p>
+  </div>
+</div>
 
 
 ### Statistics and Languages
