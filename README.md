@@ -13,6 +13,10 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
 Here are a few visualizations that make use of code I've developed!
+
+TODO: self assembly of octahedra? At constant density
+TODO: self-assembly of tetrahedra under slow compression and decompression
+
 <div>
     <img src='src/pyritohedron.gif' alt='Pyritohedra' width='25%'/>
     <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
