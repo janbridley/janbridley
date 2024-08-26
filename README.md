@@ -14,11 +14,7 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 Here are a few visualizations that make use of code I've contributed to or developed!
 
-TODO: self assembly of octahedra? At constant density
-
-TODO: Bond order diagrams and lattice snapshots of POLYHEDRA/POTENTIALS STABLE IN TCP PHASES: a15, beta U? mgZn2 (C14), gamm brass
-
-OR: show the coordination polyhedra of a complicated phase - render to match the palette of the other figures!
+<~--- TODO: self assembly of some lattice - compress? --->
 
 <div>
    <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/> 
