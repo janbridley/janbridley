@@ -28,7 +28,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 
 ### Languages and Tools
 
-[![Skills](https://skillicons.dev/icons?i=python,markdown,cpp,rust,git,bash,regex,&perline=4)]()
+[![Skills](https://skillicons.dev/icons?i=python,markdown,bash,regex,cpp,rust,git,svg&perline=4)]()
 
 ### Statistics
 
