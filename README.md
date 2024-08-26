@@ -38,6 +38,10 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 
 <!--- TODO: replace with own images in order to better match software suite --->
 
-[![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]()
+<!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="7.5%">
+</div>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
