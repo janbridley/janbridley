@@ -14,11 +14,11 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
 Here are a few visualizations that make use of code I've developed!
 <figure>
-    <img src='src/pyritohedron.gif' alt='missing' />
+    <img src='src/pyritohedron.gif' alt='missing' width='25%'/>
     <figcaption>A continuous family of polyhedra that mirror the crystal habit of Pyrite (FeS<sub>2</sub>)</figcaption>
 </figure>
 <figure>
-    <img src='image.jpg' alt='missing' />
+    <img src='image.jpg' alt='missing' width='25%'/>
     <figcaption>Caption goes here</figcaption>
 </figure>
 
