@@ -13,13 +13,14 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
 Here are a few visualizations that make use of code I've developed!
-
-<div style="display: flex; justify-content: space-between; text-align: center;">
-    <img src="src/pyritohedron.gif" width="25%" />
-    <p>A continuous family of geometries that mirror the crystal habit of Pyrite (FeS<sub>2</sub>)</p>
-    <img src="src/pyritohedron.gif" width="25%" />
-    <p>Under construction!</p>
-</div>
+<figure>
+    <img src='src/pyritohedron.gif' alt='missing' />
+    <figcaption>A continuous family of polyhedra that mirror the crystal habit of Pyrite (FeS<sub>2</sub>)</figcaption>
+</figure>
+<figure>
+    <img src='image.jpg' alt='missing' />
+    <figcaption>Caption goes here</figcaption>
+</figure>
 
 
 ### Statistics and Languages
