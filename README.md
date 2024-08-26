@@ -12,7 +12,7 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 
  <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
-Here are a few visualizations that make use of code I've developed!
+Here are a few visualizations that make use of code I've contributed to or developed!
 
 TODO: self assembly of octahedra? At constant density
 
