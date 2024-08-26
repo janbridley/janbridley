@@ -40,7 +40,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 
 <!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
 
-<div style="display: flex; gap: 1vw;">
+<div style="display: flex; gap: 10vw;">
   <img src="src/extern/devicons/python-original.svg" width="7.5%">
   <img src="src/extern/devicons/pytest-original.svg" width="7.5%">
   <img src="src/extern/devicons/readthedocs-original.svg" width="7.5%">
