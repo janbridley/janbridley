@@ -21,9 +21,9 @@ TODO: Bond order diagrams and lattice snapshots of POLYHEDRA/POTENTIALS STABLE I
 OR: show the coordination polyhedra of a complicated phase - render to match the palette of the other figures!
 
 <div>
-    <img src='src/pyritohedron.gif' alt='Pyritohedra' width='33%'/>
-    <img src='image.jpg' alt='Under construction - come back later!' width='33%'/>
-    <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='33%'/>
+    <img src='src/pyritohedron.gif' alt='Pyritohedra' width='32%'/>
+    <img src='image.jpg' alt='Under construction - come back later!' width='32%'/>
+    <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/>
 </div>
 
 ## Statistics, Languages, and Tools
