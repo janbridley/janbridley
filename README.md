@@ -36,10 +36,8 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 </div>
 
 
-<!--- [![Linkedin: Jenna Bradley](https://img.shields.io/badge/-jenbrad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenbrad/)](https://www.linkedin.com/in/jenbrad/) --->
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
 <!--- TODO: replace with own images in order to better match software suite --->
 
 [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]()
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
