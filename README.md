@@ -26,7 +26,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
     <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
 </div>
 
-### Statistics, Languages, and Tools
+## Statistics, Languages, and Tools
 
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
 
@@ -35,10 +35,6 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="31.5%" />
 </div>
 
-
-<!--- TODO: replace with own images in order to better match software suite --->
-
-<!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
 
 <div style="display: flex;">
   <a href="https://www.python.org/"><img src="src/icons/python.svg" width="6%" alt="Python"></a>
