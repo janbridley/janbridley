@@ -29,7 +29,7 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 ### Languages and Tools
 
 <div>
-<img src="https://skillicons.dev/icons?i=python,markdown,git,helix,readthedocs">
+<img src="https://skillicons.dev/icons?i=python,markdown,git,helix,cpp,zsh">
 </div>
 
 ### Statistics
