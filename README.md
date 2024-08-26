@@ -15,7 +15,10 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 Here are a few visualizations that make use of code I've developed!
 
 TODO: self assembly of octahedra? At constant density
-TODO: self-assembly of tetrahedra under slow compression and decompression
+
+TODO: Bond order diagrams and lattice snapshots of POLYHEDRA/POTENTIALS STABLE IN TCP PHASES: a15, beta U? mgZn2 (C14), gamm brass
+
+OR: show the coordination polyhedra of a complicated phase - render to match the palette of the other figures!
 
 <div>
     <img src='src/pyritohedron.gif' alt='Pyritohedra' width='25%'/>
