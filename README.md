@@ -17,7 +17,7 @@ Here are a few visualizations that make use of code I've contributed to or devel
 <!--- TODO: self assembly of some lattice - compress? --->
 
 <div>
-   <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/> 
+   <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/>
    <img src='image.jpg' alt='Under construction - come back later!' width='32%'/>
    <img src='src/pyritohedron.gif' alt='Pyritohedra' width='32%'/>
 </div>
