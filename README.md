@@ -40,16 +40,16 @@ OR: show the coordination polyhedra of a complicated phase - render to match the
 
 <!--- [![Skills](https://skillicons.dev/icons?i=python,bash,markdown,regex,cpp,rust,git,linux&perline=4&theme=light)]() --->
 
-<div style="display: flex; gap: 10vw;">
-  <img src="src/icons/python.svg" width="7.5%">
-  <img src="src/icons/pytest.svg" width="7.5%">
-  <img src="src/icons/cpp.svg" width="7.5%">
-  <img src="src/icons/rust.svg" width="7.5%">
-  <img src="src/icons/md.svg" width="7.5%">
-  <img src="src/icons/bash.svg" width="7.5%">
-  <img src="src/icons/git.svg" width="7.5%">
-  <img src="src/icons/github_actions.svg" width="7.5%">
-  <img src="src/icons/rtd.svg" width="7.5%">
+<div style="display: flex;">
+  <img src="src/icons/python.svg" width="6%">
+  <img src="src/icons/pytest.svg" width="6%">
+  <img src="src/icons/cpp.svg" width="6%">
+  <img src="src/icons/rust.svg" width="6%">
+  <img src="src/icons/md.svg" width="6%">
+  <img src="src/icons/bash.svg" width="6%">
+  <img src="src/icons/git.svg" width="6%">
+  <img src="src/icons/github_actions.svg" width="6%">
+  <img src="src/icons/rtd.svg" width="6%">
 </div>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
