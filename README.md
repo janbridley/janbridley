@@ -17,7 +17,7 @@ Here are a few visualizations that make use of code I've developed!
 <div style="display: flex; justify-content: space-between; text-align: center;">
     <img src="src/pyritohedron.gif" width="25%" />
     <p>A continuous family of geometries that mirror the crystal habit of Pyrite (FeS<sub>2</sub>)</p>
-    <img src="src/pyritohedron.gif" width="100%" />
+    <img src="src/pyritohedron.gif" width="25%" />
     <p>Under construction!</p>
 </div>
 
