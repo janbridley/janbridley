@@ -15,8 +15,8 @@ I'm **Jen Bradley**, a PhD researcher studying colloidal self-assembly through t
 Here are a few visualizations that make use of code I've developed!
 <div>
     <img src='src/pyritohedron.gif' alt='Pyritohedra' width='25%'/>
-    <img src='image.jpg' alt='missing' width='25%'/>
-    <img src='image.jpg' alt='missing' width='25%'/>
+    <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
+    <img src='image.jpg' alt='Under construction - come back later!' width='25%'/>
 </div>
 
 
