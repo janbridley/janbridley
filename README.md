@@ -25,10 +25,10 @@ Here are a few visualizations that make use of code I've contributed to or devel
 ## Gists, Experiments, and Small Projects
 
 <p align="center">
-  <a href="https://github.com/janbridley/arrcomp">
+  <a href="https://github.com/janbridley/arrcomp#readme">
     <img src="src/stickies/arrcomp-offset-padded.svg" width="30%" />
   </a>
-  <a href="https://github.com/janbridley/blueberry-mango">
+  <a href="https://github.com/janbridley/blueberry-mango#readme">
     <img src="src/stickies/blueberry-mango-offset-padded.svg" width="30%" />
   </a>
   <a href="https://gist.github.com/janbridley/516d4bbdcc7a4c5b510f52db0210c9a0">
