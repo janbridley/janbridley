@@ -22,6 +22,22 @@ Here are a few visualizations that make use of code I've contributed to or devel
    <img src='src/pyritohedron.gif' alt='Pyritohedra' width='32%'/>
 </div>
 
+## Gists, Experiments, and Small Projects
+
+<p align="center">
+  <a href="https://github.com/janbridley/blueberry-mango">
+    <img src="src/stickies/arrcomp-offset-padded.svg" width="30%" />
+  </a>
+  <a href="https://gist.github.com/janbridley/516d4bbdcc7a4c5b510f52db0210c9a0">
+    <img src="src/stickies/blueberry-mango-offset-padded.svg" width="30%" />
+  </a>
+  <a href="https://github.com/janbridley/arrcomp">
+    <img src="src/stickies/pytest-lldb-offset-padded.svg" width="30%" />
+  </a>
+</p>
+
+
+
 ## Statistics, Languages, and Tools
 
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
