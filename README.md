@@ -36,6 +36,8 @@ Here are a few visualizations that make use of code I've contributed to or devel
   </a>
 </p>
 
+<!-- See font source here: https://fonts.google.com/specimen/Fuzzy+Bubbles -->
+
 
 
 ## Statistics, Languages, and Tools
