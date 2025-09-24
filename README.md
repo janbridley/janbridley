@@ -1,4 +1,8 @@
-I'm **Jen Bradley**, a PhD researcher in materials science and engineering studying colloidal self-assembly through the lens of molecular simulation. I place a particular focus on the role of particle geometry in assembling and stabilizing complex phases, aiming to design colloidal materials with properties that exceed the capabilities of traditional metals, ceramics, and polymers.
+I'm **Jen Bradley**, a PhD researcher in materials science and engineering studying
+colloidal self-assembly through the lens of molecular simulation. I place a particular
+focus on the role of particle geometry in assembling and stabilizing complex phases,
+aiming to design colloidal materials with properties that exceed the capabilities of
+traditional metals, ceramics, and polymers.
 
 <pre>
  ~> <strong>id -p</strong>
@@ -10,15 +14,15 @@ I'm **Jen Bradley**, a PhD researcher in materials science and engineering study
   <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
 </pre>
 
- <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
+<!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
 Here are a few visualizations that make use of code I've contributed to or developed!
 
 <!--- TODO: self assembly of some lattice - compress? --->
 
 <div>
-   <img src='src/bods.svg' alt='Bond-order diagrams for a few related phases!' width='32%'/>
-   <!---<img src='image.jpg' alt='Under construction - come back later!' width='32%'/>--->
+   <img src='src/bods.svg' alt='Bond-order diagrams for a few colloidal complex phases.' width='32%'/>
+   <img src='src/pentagonal-prisms.png' alt='Intersecting grains of a columnar crystal.' width='32%'/>
    <img src='src/pyritohedron.gif' alt='Pyritohedra' width='32%'/>
 </div>
 
@@ -38,8 +42,6 @@ Here are a few visualizations that make use of code I've contributed to or devel
 
 <!-- See font source here: https://fonts.google.com/specimen/Fuzzy+Bubbles -->
 
-
-
 ## Statistics, Languages, and Tools
 
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
@@ -48,7 +50,6 @@ Here are a few visualizations that make use of code I've contributed to or devel
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="32%" />
 </div>
-
 
 <div style="display: flex;">
   <a href="https://www.python.org/"><img src="src/icons/python.svg" width="6.05%" alt="Python"></a>
@@ -64,7 +65,5 @@ Here are a few visualizations that make use of code I've contributed to or devel
 </div>
 
 <!--- Thanks to [Devicon.dev](https://devicon.dev) for the svg logos that were adapted for this README.md --->
-
-
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
