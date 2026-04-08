@@ -22,9 +22,9 @@ traditional metals, ceramics, and polymers.
   <br> Domagoj Fijan; Maria R. Ward Rashidi; **Jenna Bradley**; Sharon C. Glotzer
   (2026).
   <br>
-  <a href="https://arxiv.org/abs/2509.12665"><img src="./src/icons/arxiv-logomark.svg" height="16" alt="arXiv"></a>
-  | [`DOI`](https://doi.org/10.1063/5.0312579) |
-  [`Repository`](https://github.com/glotzerlab/spatula)
+  <a href="https://arxiv.org/abs/2509.12665"><img src="./src/icons/arxiv-logomark-small.svg" height="16" alt="arXiv link" style="vertical-align: middle; margin-right: 4px;">
+  arXiv Link</a> | [`doi: 10.1063/5.0312579`](https://doi.org/10.1063/5.0312579) |
+  [`glotzerlab/spatula`](https://github.com/glotzerlab/spatula)
 
 ## Visualizations Using Software I've Developed
 
