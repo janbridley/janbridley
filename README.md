@@ -23,8 +23,8 @@ traditional metals, ceramics, and polymers.
   (2026).
   <br>
   <a href="https://arxiv.org/abs/2509.12665">
-  <img src="https://img.shields.io/badge/arXiv-FFFFFF?style=flat-square&logo=arxiv&logoColor=B31B1B" alt="arXiv" height="20" align="center">
-  </a> | [`Journal of Chemical Physics`](https://doi.org/10.1063/5.0312579) |
+  <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="20" width="20" align="center" alt="arXiv">
+  </a> `arXiv` | [`Journal of Chemical Physics`](https://doi.org/10.1063/5.0312579) |
   [`Repository`](https://github.com/glotzerlab/spatula)
 
 ## Visualizations Using Software I've Developed
