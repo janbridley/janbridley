@@ -16,7 +16,17 @@ traditional metals, ceramics, and polymers.
 
 <!--- Style for the block above is based on the excellent profile at https://github.com/hedyhli/hedyhl --->
 
-Here are a few visualizations that make use of code I've contributed to or developed!
+## Publications and Associated Software
+
+- **[Quantifying Local Point-Group-Symmetry Order in Complex Particle Systems](https://doi.org/10.1063/5.0312579)**
+  <br> Domagoj Fijan; Maria R. Ward Rashidi; **Jenna Bradley**; Sharon C. Glotzer
+  (2026).
+  <br>
+  <a href="https://arxiv.org/abs/2509.12665"><img src="./src/icons/arxiv-logomark.svg" height="16" alt="arXiv"></a>
+  | [`DOI`](https://doi.org/10.1063/5.0312579) |
+  [`Repository`](https://github.com/glotzerlab/spatula)
+
+## Visualizations Using Software I've Developed
 
 <!--- TODO: self assembly of some lattice - compress? --->
 
