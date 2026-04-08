@@ -6,8 +6,8 @@ traditional metals, ceramics, and polymers.
 
 <pre>
  ~> <strong>id -p</strong>
-  uid	jenbradley
-  groups staff everyone she.her.hers <a href="https://github.com/glotzerlab">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about">CWRU.ECG</a>
+  uid     jenbradley
+  groups  staff everyone she.her.hers <a href="https://github.com/glotzerlab">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about">CWRU.ECG</a>
 
  ~> <strong>ls socials</strong>
   <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
@@ -42,13 +42,13 @@ traditional metals, ceramics, and polymers.
 
 <p align="center">
   <a href="https://github.com/janbridley/arrcomp#readme">
-    <img src="src/stickies/arrcomp-offset-padded.svg" width="30%" />
+    <img src="src/stickies/arrcomp-offset-padded.svg" alt="arrcomp" width="30%" />
   </a>
   <a href="https://github.com/janbridley/blueberry-mango#readme">
-    <img src="src/stickies/blueberry-mango-offset-padded.svg" width="30%" />
+    <img src="src/stickies/blueberry-mango-offset-padded.svg" alt="blueberry mango color palette" width="30%" />
   </a>
   <a href="https://gist.github.com/janbridley/516d4bbdcc7a4c5b510f52db0210c9a0">
-    <img src="src/stickies/pytest-lldb-offset-padded.svg" width="30%" />
+    <img src="src/stickies/pytest-lldb-offset-padded.svg" alt="pytest lldb gist" width="30%" />
   </a>
 </p>
 
@@ -59,8 +59,8 @@ traditional metals, ceramics, and polymers.
 <!--- ![Github Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github) --->
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janbridley&theme=github" alt="github contribution statistics" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janbridley&theme=github" alt="github language statistics" width="32%" />
 </div>
 
 <div style="display: flex;">
