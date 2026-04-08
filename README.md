@@ -10,7 +10,7 @@ traditional metals, ceramics, and polymers.
   groups  staff everyone she.her.hers <a href="https://github.com/glotzerlab">glotzerlab</a> <a href="https://engineering.case.edu/research/labs/electro-ceramics/about">CWRU.ECG</a>
 
  ~> <strong>ls socials</strong>
-  <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jenbrad">LinkedIn</a><!-- markdown-link-check-disable-line -->
   <a href="https://orcid.org/0009-0007-2443-2982">ORCID</a>
 </pre>
 
