@@ -12,8 +12,8 @@ repos:
     hooks:
     - id: codespell
       exclude: \.svg$
-  - repo: https://github.com/markdownlint/markdownlint
-    rev: v0.15.0
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.48.0
     hooks:
     - id: markdownlint
-      args: [--rules, '~MD033']  # Disables MD033
+      args: [--disable, 'MD033', 'MD041']
