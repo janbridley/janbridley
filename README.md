@@ -24,8 +24,9 @@ traditional metals, ceramics, and polymers.
   <br>
   <a href="https://arxiv.org/abs/2509.12665">
   <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="20" width="20" align="center" alt="arXiv">
-  </a> `arXiv` | [`Journal of Chemical Physics`](https://doi.org/10.1063/5.0312579) |
-  [`Repository`](https://github.com/glotzerlab/spatula)
+  </a> [*arXiv*](https://arxiv.org/abs/2509.12665) |
+  [*Journal of Chemical Physics*](https://doi.org/10.1063/5.0312579) |
+  [*glotzerlab/spatula*](https://github.com/glotzerlab/spatula)
 
 ## Visualizations Using Software I've Developed
 
