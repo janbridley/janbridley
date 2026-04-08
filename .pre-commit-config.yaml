@@ -5,15 +5,17 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
+      - id: check-yaml
+      - id: sort-simple-yaml
       - id: end-of-file-fixer
       - id: trailing-whitespace
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
-    - id: codespell
-      exclude: \.svg$
-  - repo: https://github.com/markdownlint/markdownlint
-    rev: v0.15.0
+      - id: codespell
+        exclude: \.svg$
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.39.0
     hooks:
       - id: markdownlint
-        args: [--rules, '~MD033']  # Disables MD033
+        args: ["--disable", "MD033", "MD013", "--"]
