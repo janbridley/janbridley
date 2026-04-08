@@ -18,3 +18,8 @@ repos:
     hooks:
       - id: markdownlint
         args: ["--disable", "MD033", "MD013", "MD041", "--"]
+  - repo: https://github.com/tcort/markdown-link-check
+    rev: v3.14.2
+    hooks:
+      - id: markdown-link-check
+        args: [-q]
