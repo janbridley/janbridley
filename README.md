@@ -28,8 +28,6 @@ traditional metals, ceramics, and polymers.
   [`glotzerlab/spatula`](https://github.com/glotzerlab/spatula) ┃
   [Journal of Chemical Physics](https://doi.org/10.1063/5.0312579)
 
-<br>
-
 ## Visualizations Using Software I've Developed
 
 <!--- TODO: self assembly of some lattice - compress? --->
